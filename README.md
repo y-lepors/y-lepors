@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Yanis, welcome to my profile 👋
 
-<!--
-**y-lepors/y-lepors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I am french computer science student at the IUT of Vannes in Brittany. 🎓
+  Currently I work in MENBAT company in Questembert where I work on the development of production software. 💼
+  
+  I use many languages like Java, PHP, Python, Javascript.
+  I am particularly interested in web and mobile development.
+  
+  ✉️ Contact me
+    
+   - Mail : yanis.lepors@gmail.com
