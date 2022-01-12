@@ -1,6 +1,6 @@
 ### Hi there, my name is Yanis, welcome to my profile 👋
 
-  I am french 🇫🇷 computer science student at the IUT of Vannes in Brittany. 🎓
+  I am french 🇫🇷 computer science student at the University of Brest in Brittany. 🎓
   
   Currently I work in MENBAT company in Questembert where I work on the development of production software. 💼
   
