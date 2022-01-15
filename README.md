@@ -2,7 +2,7 @@
 
   I am french 🇫🇷 computer science student at the University of Brest in Brittany. 🎓
   
-  Currently I work in MENBAT company in Questembert where I work on the development of production software. 💼
+  Last year, I worked in the MENBAT company in Questembert where I worked on the development of production software. 💼
   
   I use many languages like Java, PHP, Python, Javascript.
   I am particularly interested in web and mobile development.
